@@ -1,0 +1,9 @@
+Need to scrape data  from this website:
+
+https://www.adidas.co.id/pria/sepatu/sepak-bola.html
+
+what exactly do I need?
+1. Name
+2. Price
+3. Image
+4. These data need to be added to the CSV file.
